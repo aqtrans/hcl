@@ -2,6 +2,10 @@
 
 [![GoDoc](https://godoc.org/github.com/hashicorp/hcl?status.png)](https://godoc.org/github.com/hashicorp/hcl) [![Build Status](https://travis-ci.org/hashicorp/hcl.svg?branch=master)](https://travis-ci.org/hashicorp/hcl)
 
+> This is a fork of HCL v1 with [PR #228](https://github.com/hashicorp/hcl/pull/228) applied, 
+> fixing [Issue #164](https://github.com/hashicorp/hcl/issues/164).
+> Mainly so I can use it in my project [Gorram](https://github.com/aqtrans/gorram).
+
 HCL (HashiCorp Configuration Language) is a configuration language built
 by HashiCorp. The goal of HCL is to build a structured configuration language
 that is both human and machine friendly for use with command-line tools, but
